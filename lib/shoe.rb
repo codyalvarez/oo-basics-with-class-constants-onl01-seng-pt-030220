@@ -16,4 +16,12 @@ BRANDS = []
     puts "Your shoe is as good as new!"
   end
 
+<<<<<<< HEAD
+=======
+  def brand=(brand)
+    @brand = brand
+    BRANDS << brand
+  end
+
+>>>>>>> 4ab78ba8e6623aff836cced836cd219068ebc5ab
 end
